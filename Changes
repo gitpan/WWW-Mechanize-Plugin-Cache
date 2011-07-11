@@ -1,4 +1,12 @@
 Revision history for WWW-Mechanize-Plugin-Cache
+0.06  Mon Jul 11 13:08:02 PDT 2011
+	- Remove a few more superfluous tests
+
+0.05  ...
+	- Missed update to changelog
+
+0.04  Tue Jun  8 11:10:11 PDT 2010
+	- Remove extra tests
 
 0.03  Tue Apr 18 15:22:58 PDT 2006
 	- remove version.pm prereq.

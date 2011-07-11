@@ -13,6 +13,7 @@ WriteMakefile(
         'Test::Exception' => 0,
         'Data::Dump::Streamer' => 0,
         'Cache::FileCache' => 0,
+        'Class::Accessor::Fast' => 0,
         'WWW::Mechanize::Pluggable' => 0,
     },
     dist                => { COMPRESS => 'gzip -9f', SUFFIX => 'gz', },
